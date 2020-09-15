@@ -3,9 +3,9 @@
 ### Hi there 👋 Mikey here. 
 This is the boring section where I ramble on hoping to say something exciting that makes you visit me again. It just so happens that I am not in the mood for that right now, so I'll simply say, Remember to smile at least once today.
 
-Below is a list of what I am up to at the moment. I won't bore you or fill space by promising things that are more wishlists than actual plans. So you can be sure that what's listed is actually what's happening in my life right now. 
+Below is a list of what I am up to at the moment. I won't bore you or fill space by promising things that are more wishlists than actual plans [^1]. So you can be sure that what's listed is actually what's happening in my life right now. 
 
-[^1]: hmm... note to self, maybe use actions to update that list when things change.
+
 
 - 🔭 I’m currently working on Python based bots for discord, twitter, and any other API I can get my hands on.
 - 🌱 I’m currently learning Python
@@ -15,6 +15,8 @@ Below is a list of what I am up to at the moment. I won't bore you or fill space
 - 📫 How to reach me:
   ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwhoismikey)
 - ⚡ Fun fact: I don't give a blummer! is one of my favourite quotes. 2p if you know where it's from. :smiley:
+
+[^1]: hmm...note to self, maybe use actions to update that list when things change.
 
 <!--
 **mikeysan/mikeysan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
