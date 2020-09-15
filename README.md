@@ -5,7 +5,7 @@
 This is the section where I ramble on hoping to say something exciting that makes you want to be like me. It just so happens that I am not in the mood for that right now, so I'll simply say, Remember to smile at least once today.
 </p>
 ---
-Below is a list of what I am up to at the moment. I won't bore you or add to my character count by promising things that are more wishlists than actual plans. So you can be sure that what's listed is actually what's happening in my life right now. 
+<p>Below is a list of what I am up to at the moment. I won't bore you or add to my character count by promising things that are more wishlists than actual plans. So you can be sure that what's listed is actually what's happening in my life right now. </p>
 
 *hmm...note to self, maybe use actions to update that list when things change.*
 
