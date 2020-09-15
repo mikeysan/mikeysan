@@ -13,7 +13,19 @@ Below is a list of what I am up to at the moment. I won't bore you or fill space
 - 🤔 I’m looking for help with contributing to open source in a meaningful way
 - 💬 Ask me about Linux and Photography (Python later)
 - 📫 How to reach me:
-[![@whoismikey](https://camo.githubusercontent.com/84326a5401c753d69bfd9d72c84049880f7b7af7/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f7374796c653d736f6369616c2675726c3d6874747073253341253246253246747769747465722e636f6d25324677686f69736d696b6579)](https://twitter.com/whoismikey)
+<p align="center">
+  <a href="https://github.com/mikeysan?tab=followers">
+    <img src="https://img.shields.io/github/followers/mikeysan?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/whoismikey">
+    <img src="https://img.shields.io/twitter/follow/whoismikey?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://discord.com/invite/jZQs6Wu">
+    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />
+  </a>
+</p>
+<!--
+[![@whoismikey](https://camo.githubusercontent.com/84326a5401c753d69bfd9d72c84049880f7b7af7/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f7374796c653d736f6369616c2675726c3d6874747073253341253246253246747769747465722e636f6d25324677686f69736d696b6579)](https://twitter.com/whoismikey) -->
 - ⚡ Fun fact: I don't give a blummer! is one of my favourite quotes. 2p if you know where it's from. :smiley:
 
 
