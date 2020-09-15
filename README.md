@@ -8,9 +8,8 @@
 - 🤔 I’m looking for help with contributing to open source in a meaningful way
 - 💬 Ask me about Linux and Photography (Python later)
 - 📫 How to reach me:
-<!-- [@whoismikey](https://twitter.com/whoismikey) -->
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwhoismikey)
-[@whoismikey](https://instagram.com/whoismikey)
+  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwhoismikey)
+  ![IG @whoismikey](https://instagram.com/whoismikey)
 - ⚡ Fun fact: I don't give a blummer! is one of my favourite quotes. 2p if you know where it's from. :smiley:
 
 <!--
