@@ -13,7 +13,7 @@ Below is a list of what I am up to at the moment. I won't bore you or fill space
 - 🤔 I’m looking for help with contributing to open source in a meaningful way
 - 💬 Ask me about Linux and Photography (Python later)
 - 📫 How to reach me:
-  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwhoismikey)
+  [Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwhoismikey)
 - ⚡ Fun fact: I don't give a blummer! is one of my favourite quotes. 2p if you know where it's from. :smiley:
 
 
