@@ -7,13 +7,13 @@ Below is a list of what I am up to at the moment. I won't bore you or fill space
 
 *hmm...note to self, maybe use actions to update that list when things change.*
 
-- 🔭 I’m currently working on Python based bots for discord, twitter, and any other API I can get my hands on.
+- 🔭 I’m currently working on Python based bots for discord, twitter, and any other APIs I can get my hands on.
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with contributing to open source in a meaningful way
 - 💬 Ask me about Linux and Photography (Python later)
 - 📫 How to reach me:
-<p align="center">
+<p align="left">
   <a href="https://github.com/mikeysan?tab=followers">
     <img src="https://img.shields.io/github/followers/mikeysan?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
