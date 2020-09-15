@@ -1,8 +1,9 @@
 ![Second life](https://user-images.githubusercontent.com/13338176/93229721-cca43c00-f76e-11ea-9854-e69f3be01b64.png)
 
-### Hi there, 👋 Mikey here. 
-This is the section where I ramble on hoping to say something exciting that makes you want to be like me. It just so happens that I am not in the mood for that right now, so I'll simply say, Remember to smile at least once today.
+### Hi there, 👋 Mikey here.
 
+This is the section where I ramble on hoping to say something exciting that makes you want to be like me. It just so happens that I am not in the mood for that right now, so I'll simply say, Remember to smile at least once today.
+---
 Below is a list of what I am up to at the moment. I won't bore you or add to my character count by promising things that are more wishlists than actual plans. So you can be sure that what's listed is actually what's happening in my life right now. 
 
 *hmm...note to self, maybe use actions to update that list when things change.*
