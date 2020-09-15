@@ -9,7 +9,7 @@
 - 💬 Ask me about Linux and Photography (Python later)
 - 📫 How to reach me:
   ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwhoismikey)
-  ![IG @whoismikey](https://instagram.com/whoismikey)
+  [IG @whoismikey](https://instagram.com/whoismikey)
 - ⚡ Fun fact: I don't give a blummer! is one of my favourite quotes. 2p if you know where it's from. :smiley:
 
 <!--
