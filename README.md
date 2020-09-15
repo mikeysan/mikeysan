@@ -1,3 +1,4 @@
+![Fashion Week Lifestyle](https://user-images.githubusercontent.com/13338176/93207900-8ee5ea00-f753-11ea-8c74-c28cbf3e2f81.png)
 
 ### Hi there 👋
 
