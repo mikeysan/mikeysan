@@ -32,6 +32,7 @@ This is the section where I ramble on hoping to say something exciting that make
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy apps to Heroku](https://mikeysan.hashnode.dev/how-to-deploy-apps-to-heroku-ckiucwkm20e0v44s1a2y4cwtn)
 - [Help, my Repository is out of date](https://mikeysan.hashnode.dev/help-my-repository-is-out-of-date-ckgv3edy900ggsbs17qnqh6ad)
 - [A beginners guide to Docker](https://mikeysan.hashnode.dev/a-beginners-guide-to-docker-ckda6vqq300krnns148dvh4rz)
 <!-- BLOG-POST-LIST:END -->
