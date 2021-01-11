@@ -13,6 +13,8 @@ This is the section where I ramble on hoping to say something exciting that make
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with contributing to open source in a meaningful way
+  - A good community to join that will help you contribute to open source more [EddieHub](https://github.com/EddieJaoudeCommunity)
+  - We are currently taking part in [MLH's](https://mlh.io/) [Local Hack Day](https://organize.mlh.io/participants/events/6072-local-hack-day-build)
 - 💬 Ask me about Linux and Photography (Python later)
 - 📫 How to reach me:
 <p align="left">
