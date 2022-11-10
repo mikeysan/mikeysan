@@ -16,7 +16,7 @@ This is the section where I ramble on hoping to say something exciting that make
   - A good community to join that will help you contribute to open source more [EddieHub](https://github.com/EddieJaoudeCommunity)
   - We are currently taking part in [MLH's](https://mlh.io/) [Local Hack Day](https://organize.mlh.io/participants/events/6072-local-hack-day-build)
 - 💬 Ask me about Linux and Photography (Python later)
-- 📫 How to reach me:
+- 📫 You can reach me at (<a rel="me" href="https://mastodon.social/@aixing">Mastodon</a>) and the following places:
 <p align="left">
   <a href="https://github.com/mikeysan?tab=followers">
     <img src="https://img.shields.io/github/followers/mikeysan?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -57,3 +57,4 @@ Here are some ideas to get you started:
      //  Here's a link command that makes an image a link
 // [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 -->
+<!-- // I joined: <a rel="me" href="https://mastodon.social/@aixing">Mastodon</a> -->
