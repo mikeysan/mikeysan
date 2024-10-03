@@ -1,6 +1,7 @@
 ---
 
-![Second life](https://user-images.githubusercontent.com/13338176/93229721-cca43c00-f76e-11ea-9854-e69f3be01b64.png)
+![Second life](New-Header-DALL·E 2024-10-03 22.55.47.webp)
+
 
 ## Hey, I'm Mikey! 👋
 
