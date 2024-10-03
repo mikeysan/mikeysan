@@ -1,6 +1,6 @@
 ---
 
-![Second life](New-Header-DALL·E 2024-10-03 22.55.47.webp)
+![Header](./[New-Header-DALL·E 2024-10-03 22.55.47.webp])
 
 
 ## Hey, I'm Mikey! 👋
