@@ -1,5 +1,5 @@
 ---
-![Second life](https://user-images.githubusercontent.com/13338176/93229721-cca43c00-f76e-11ea-9854-e69f3be01b64.png)
+<img src="https://github.com/mikeysan/mikeysan/blob/master/New-Header-DALL%C2%B7E%202024-10-03%2022.55.47.webp" alt="abstract banner focusing on photography, tech, ai, and random thoughts">
 
 
 ## Hey, I'm Mikey! 👋
