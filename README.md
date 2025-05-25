@@ -44,7 +44,7 @@ Open Source ██████████████████░░░   85
       <h3 align="center">Audibook Tracker</h3>
       <p align="center">
         <a href="https://github.com/mikeysan" target="_blank">
-          <img src="https://via.placeholder.com/300x200/6366F1/FFFFFF?text=Audiobook+Tracker" width="100%" alt="Audiobook Tracker"/>
+          <img src="https://github.com/mikeysan/mikeysan/blob/master/audiobook.svg" alt="Audiobook Tracker Project placeholder">
         </a>
         <p align="center">
           A tool to help you keep track of your favorite Audiobook titles.
@@ -55,7 +55,7 @@ Open Source ██████████████████░░░   85
       <h3 align="center">LightFinder Project</h3>
       <p align="center">
         <a href="https://github.com/mikeysan" target="_blank">
-          <img src="https://via.placeholder.com/300x200/F87171/FFFFFF?text=LightFinder" width="100%" alt="LightFinderProject"/>
+          <img src="https://github.com/mikeysan/mikeysan/blob/master/lightfinder.svg" alt="LightFinder Project placeholder image">
         </a>
         <p align="center">
           A web and mobile application that teaches lighting to Enthusiast and budding Photographers
