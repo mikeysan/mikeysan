@@ -1,7 +1,7 @@
 # <div align="center">👋 Hey there, I'm Mikey!</div>
 
 <div align="center">
-  <img src="https://github.com/mikeysan/mikeysan/blob/master/github-header2.png" alt="Mikey San - Linux Systems Integrator & Open Source Enthusiast" width="100%">
+  <img src="https://github.com/mikeysan/mikeysan/blob/master/github-header4.jpeg" alt="Mikey San - Linux Systems Integrator & Open Source Enthusiast" width="100%">
 </div>
 
 <p align="center">
