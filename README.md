@@ -1,45 +1,93 @@
----
-<img src="https://github.com/mikeysan/mikeysan/blob/master/New-Header-DALL%C2%B7E%202024-10-03%2022.55.47.webp" alt="abstract banner focusing on photography, tech, ai, and random thoughts">
+# <div align="center">👋 Hey there, I'm Mikey!</div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mikeysan/mikeysan/main/banner-image.jpg" alt="Mikey San - Linux Systems Integrator & Open Source Enthusiast" width="100%">
+</div>
 
-## Hey, I'm Mikey! 👋
+<p align="center">
+  <a href="https://twitter.com/whoismikey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://mikeysan.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"></a>
+  <a href="https://github.com/mikeysan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-### A Little About Me
-I could go on and on about how awesome I am, but let's cut to the chase. Life's too short for fluff, so here's my mantra for you: **Smile at least once today.** 😊
+## 🧰 About Me
 
----
+I'm a **Linux Systems Integrator** with a passion for open-source technologies and creating elegant solutions. Based in the UK, I spend my days optimizing systems and my evenings exploring new tech.
 
-### What I'm Up To 🛠️
-*Note to self: Maybe automate this section to keep it fresh.* 🤔
+> "Smile at least once today. Life's too short for fluff." 😊
 
-- 🤖 Building Python bots for Discord, Twitter, and more.
-- 🐍 Learning Python (and loving it!)
-- 🤝 Open to collaborating on open-source projects.
-- 🌱 Seeking guidance on meaningful open-source contributions.
-  - Check out [EddieHub](https://github.com/EddieJaoudeCommunity) for a welcoming community.
-  - Currently participating in [MLH's Local Hack Day](https://organize.mlh.io/participants/events/6072-local-hack-day-build).
-- 🗨️ Got questions about Linux or Photography? Hit me up!
-  
----
+When I'm not deep in terminal windows, you'll find me:
+- 📸 Capturing moments through photography
+- 🎮 Unwinding with games
+- 🐍 Building Python projects and more
+- 🌱 Contributing to open-source projects
 
-### Let's Connect 🌐
-Feel free to reach out to me on [Mastodon](https://mastodon.social/@aixing) or any of the platforms below:
+## 💻 Tech Stack
 
-![GitHub followers](https://img.shields.io/github/followers/mikeysan?label=Followers&logo=GitHub&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/whoismikey?label=Twitter&logo=twitter&style=for-the-badge)
-![Discord](https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge)
+```bash
+# My everyday toolbox
+$ tech --list-favorites
 
----
+Linux       ███████████████████░░   90%
+Git         ██████████████████░░░   85%
+Python      ████████████░░░░░░░░░   60%
+AI          ████████████████░░░░░   75%
+Shell       █████████████████░░░░   80%
+Open Source ██████████████████░░░   85%
+```
 
-### Fun Fact ⚡
-"I don't give a blummer!" is one of my favorite quotes. Know where it's from? You earn 2p in my book! 😄
+## 🚀 Current Projects
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Audibook Tracker</h3>
+      <p align="center">
+        <a href="https://github.com/mikeysan" target="_blank">
+          <img src="https://via.placeholder.com/300x200/6366F1/FFFFFF?text=Audiobook+Tracker" width="100%" alt="Audiobook Tracker"/>
+        </a>
+        <p align="center">
+          A tool to help you keep track of your favorite Audiobook titles.
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">LightFinder Project</h3>
+      <p align="center">
+        <a href="https://github.com/mikeysan" target="_blank">
+          <img src="https://via.placeholder.com/300x200/F87171/FFFFFF?text=LightFinder" width="100%" alt="LightFinderProject"/>
+        </a>
+        <p align="center">
+          A web and mobile application that teaches lighting to Enthusiast and budding Photographers
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Latest Blog Posts 📝
-- [Finding Large Files on Linux](https://blog.aixing.io/how-to-find-those-large-files-on-linux-ckuxbuh1l00auvms1cl1m2gwo)
-- [Deploying Apps to Heroku](https://blog.aixing.io/how-to-deploy-apps-to-heroku-ckiucwkm20e0v44s1a2y4cwtn)
-- [Repository Out of Date? Here's Help](https://blog.aixing.io/help-my-repository-is-out-of-date-ckgv3edy900ggsbs17qnqh6ad)
-- [Beginner's Guide to Docker](https://blog.aixing.io/a-beginners-guide-to-docker-ckda6vqq300krnns148dvh4rz)
+## 📊 GitHub Stats
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikeysan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeysan&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170px"/>
+</div>
+
+## 📚 Currently Learning
+
+- Advanced Python techniques for automation
+- Cloud infrastructure and DevOps practices
+- Vibe Coding and AI Prompting
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to:
+
+- 💬 Chat about Linux or open-source
+- 📸 Share photography tips
+- 🐍 Collaborate on Python projects
+- 🎮 Talk about games
+
+<div align="center">
+  <p>Thanks for stopping by!</p>
+  <img src="https://komarev.com/ghpvc/?username=mikeysan&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
